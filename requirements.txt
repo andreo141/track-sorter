@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+SQLAlchemy
+mutagen
+pytest
+pytest-cov
+mypy
+black
+isort
+cleantext
